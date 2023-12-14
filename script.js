@@ -1,5 +1,5 @@
-// const URL = 'https://fifteens-api-production.up.railway.app/api/scores';
-const URL = 'https://fifteensapi-x80k4jxl.b4a.run/api/scores';
+
+const URL = 'https://anastasiiamahdenko-mxlz6x32.b4a.run/api/scores';
 const NEED_STEP_MSG = 'Потрібно зробити хід!!!';
 const NEW_GAM_LABEL = 'Нова гра';
 const EMPTY_RESULTS = 'Ще немає збережених результатів';
